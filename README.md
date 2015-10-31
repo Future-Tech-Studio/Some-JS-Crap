@@ -1,3 +1,2 @@
-### Some-JS-Crap
-### READ-ME!
-### **_READ THE WIKI_**
+### Some-JS-Crap "READ-ME" File
+# **_READ THE WIKI_**
